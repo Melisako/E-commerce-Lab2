@@ -1,4 +1,4 @@
-Welcome to the Future of Shopping! 🛍️
+# Welcome to the Future of Shopping! 🛍️
 
 Step into a cutting-edge e-commerce platform where technology meets convenience. This project is built with love, precision, and the latest tools to offer users an unparalleled shopping experience.
 
